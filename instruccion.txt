@@ -1,0 +1,1 @@
+Para obtener los datos de la BDD se debe crear la base con nombre track4go
